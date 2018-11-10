@@ -1,19 +1,19 @@
-dn: dc=linuxautomations,dc=com
+dn: dc=linux0,dc=com
 objectClass: top
 objectClass: dcObject
 objectclass: organization
 o: Server World
-dc: LinuxAutomations 
+dc: Linux0 
 
-dn: cn=Manager,dc=linuxautomations,dc=com
+dn: cn=Manager,dc=linux0,dc=com
 objectClass: organizationalRole
 cn: Manager
 description: Directory Manager
 
-dn: ou=People,dc=linuxautomations,dc=com
+dn: ou=People,dc=linux0,dc=com
 objectClass: organizationalUnit
 ou: People
 
-dn: ou=Group,dc=linuxautomations,dc=com
+dn: ou=Group,dc=linux0,dc=com
 objectClass: organizationalUnit
 ou: Group
