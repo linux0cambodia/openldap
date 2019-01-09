@@ -10,7 +10,7 @@ go to your ldap ip x.x.x.x\lam
 
 login to your account with password
 
-create username and group
+create your username and group
 
 #install openldap-clients and update user account
 
